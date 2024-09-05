@@ -2,4 +2,4 @@
 Generé un reporte de ventas, en Power BI, ofreciendo una visión clara y dinámica del rendimiento comercial, destacando tendencias clave.
 
 
-![Descripción de la imagen](Salesreportpowerbi.JPG)
+![Descripción de la imagen](Sales_report_power_bi.JPG)
